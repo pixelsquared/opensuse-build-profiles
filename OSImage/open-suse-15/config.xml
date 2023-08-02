@@ -9,7 +9,7 @@
     <preferences>
         <version>7.1.0</version>
         <packagemanager>zypper</packagemanager>
-        <bootsplash-theme>openSUSE</bootsplash-theme>
+        <bootsplash-theme>spinner</bootsplash-theme>
         <bootloader-theme>openSUSE</bootloader-theme>
 
         <locale>en_US</locale>
